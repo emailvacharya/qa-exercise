@@ -20,19 +20,22 @@ Commit each exercise once you've finished with it.
 
 Exercise #1
 -----------
-Create Page Object Model framework for www.valtech.co.uk to do the exercise 2 & 3 
+Create Page Object Model framework for https://www.valtech.com/en-gb/ to do the exercise 2 & 3 
   
 Exercise #2
 -----------
-Navigate to www.valtech.co.uk HOME PAGE
-- a. Assert that the “Recent Blogs” section is displaying
-- b. Click on the first blog article & then assert that the page title is present
-
+Navigate to https://www.valtech.com/en-gb/ HOME PAGE
+- a. Assert that the drop down menu on the right displays the following Link: Work, Public Sector, Services, Career, Insights
+- b. Click on the Public Sector and validate the following
+      b.1 list out how many Project case studies are listed
+      b.2 The project case studies are in the order of CSHR,TFGM,DVLA,DWP
 Exercise #3
 -----------
-- a. Navigate to ABOUT, SERVICES and WORK pages via top navigation and assert that H1 tag in each page is displaying the relevant page name. Ex H1 tag in Services page is displaying as “Services”
+- a. Navigate to https://www.valtech.com/en-gb/partners/  and validate the following
+   a.1 Adode is the 2nd in the partner list 
+   a.2 CommerceTools is last in the partner list 
 
-- b. Navigate to Contact page (/about/contact-us) and output how many Valtech offices in total
+- b. Navigate to https://www.valtech.com/en-gb/about/contact-us/ and output how many Valtech offices in total
 
 Exercise #4
 -----------
