@@ -6,7 +6,7 @@ QA exercise
 Overview
 --------
 
-We are interested in your approach to the following problems.
+We are interested in your approach to the following problems
 
 Please do the test in Selenium with a proper Object Oriented Programming
 language using automated testing best practices. This is expected to
