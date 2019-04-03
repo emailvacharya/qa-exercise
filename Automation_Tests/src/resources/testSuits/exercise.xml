@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Valtech">
+
+    <test name="Valtech Exercise" verbose="2">
+        <packages>
+            <package name="com.valtech.automation.tests.*"/>
+        </packages>
+    </test>
+
+</suite>
